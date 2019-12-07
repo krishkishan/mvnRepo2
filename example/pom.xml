@@ -9,10 +9,10 @@
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath/>
 	</parent>
-	<artifactId>exampleTest</artifactId>
+	<artifactId>example</artifactId>
 	<packaging>jar</packaging>
 
-	<name>exampleTest</name>
+	<name>example</name>
 	
 
 	<properties>
