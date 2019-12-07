@@ -13,7 +13,7 @@
 	<packaging>jar</packaging>
 
 	<name>exampleTest</name>
-	<url>https://github.com/testdouble/contributing-tests/wiki</url>
+	
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
