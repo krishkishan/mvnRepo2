@@ -3,13 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 
-	<parent>
+
 		<groupId>com.testdouble</groupId>
 		<artifactId>test-training</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath/>
-	</parent>
-	<artifactId>example</artifactId>
+		
 	<packaging>jar</packaging>
 
 	<name>example</name>
