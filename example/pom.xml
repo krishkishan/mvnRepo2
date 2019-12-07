@@ -7,7 +7,7 @@
 		<groupId>com.testdouble</groupId>
 		<artifactId>test-training</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath>../pom.xml</relativePath>
+		<relativePath/>
 	</parent>
 	<artifactId>exampleTest</artifactId>
 	<packaging>jar</packaging>
